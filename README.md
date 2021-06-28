@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm [German Felisarta III](https://github.com/germaniii/), currently a Bachelor of Science in Computer Engineering Student from the University of San Carlos in the Philippines. 
 
-- 🔭 I’m currently working on my thesis which is an Android application written in Java.
+- 🔭 I’m currently working on our thesis which is an Android application written in Java.
 - 👯 I’m looking to collaborate on Game Development Projects.
 - 📫 How to reach me: germaniiifelisarta@gmail.com
 
