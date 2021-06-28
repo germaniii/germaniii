@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello there visitor 👋
+## Hello there visitor 👋 ![](https://visitor-badge.glitch.me/badge?page_id=germaniii.germaniii)
 
 I'm [German Felisarta III](https://github.com/germaniii/), currently a Bachelor of Science in Computer Engineering Student from the University of San Carlos in the Philippines. 
 
@@ -24,7 +24,6 @@ I'm [German Felisarta III](https://github.com/germaniii/), currently a Bachelor 
 
 In my spare time I make music or develop simple video games that could help me hone my programming and problem solving skills. You can check out the links below to know more about me:
 
-![](https://visitor-badge.glitch.me/badge?page_id=germaniii.germaniii)
 <a href="https://twitter.com/GmanRockerz">
   <img align="left" alt="German III | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -35,8 +34,6 @@ In my spare time I make music or develop simple video games that could help me h
   <img align="left" alt="German III | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-
-<br />
 
 ## Progamming Languages I Know
 
