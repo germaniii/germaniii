@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 
 ## Hello there visitor 👋 ![](https://visitor-badge.glitch.me/badge?page_id=germaniii.germaniii)
 
-I'm [German Felisarta III](https://github.com/germaniii/), currently a Bachelor of Science in Computer Engineering Student from the University of San Carlos in the Philippines. 
+I'm [German Felisarta III](https://github.com/germaniii/), a Bachelor of Science in Computer Engineering Graduate from the University of San Carlos in the Philippines. 
 
-- 🔭 I’m currently working on our thesis which is an Android application written in Java.
+- 🔭 I’m currently working at Lexmark as a Firmware Engineer.
+- 🌱 I’m currently learning Java Spring Boot and ReactJS
 - 👯 I’m looking to collaborate on Game Development Projects.
 - 📫 How to reach me: germaniiifelisarta@gmail.com
 
