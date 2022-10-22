@@ -31,7 +31,7 @@ In my spare time I make music or develop simple video games that could help me h
   <img align="left" alt="German III | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/artist/7ISH9yin8JpNyehBjeYHBS?si=w-_UCHuwSW6-3czw4KC6zA&dl_branch=1">
-  <img align="left" alt="German III | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="German III | Spotify" width="22px" src="http://icons.iconarchive.com/icons/blackvariant/button-ui-requests-2/1024/Spotify-icon.png" />
 </a>
 
 
