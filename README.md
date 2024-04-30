@@ -18,21 +18,18 @@ Here are some ideas to get you started:
 
 I'm [German Felisarta III](https://github.com/germaniii/), a Bachelor of Science in Computer Engineering Graduate from the University of San Carlos in the Philippines. 
 
-- 🔭 I’m currently working at Lexmark as a Firmware Engineer.
-- 🌱 I’m currently learning Java Spring Boot and ReactJS
+- 🔭 I’m currently working at Bluewind Asia Inc. as a Software Engineer.
+- 🌱 I’m currently working with ReactJS, Typescript and Laravel PHP.
 - 👯 I’m looking to collaborate on Game Development Projects.
 - 📫 How to reach me: germaniiifelisarta@gmail.com
 
 In my spare time I make music or develop simple video games that could help me hone my programming and problem solving skills. You can check out the links below to know more about me:
 
-<a href="https://twitter.com/GmanRockerz">
-  <img align="left" alt="German III | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/german-iii-felisarta-648b9420b/">
-  <img align="left" alt="German III | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="German III | LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 <a href="https://open.spotify.com/artist/7ISH9yin8JpNyehBjeYHBS?si=w-_UCHuwSW6-3czw4KC6zA&dl_branch=1">
-  <img align="left" alt="German III | Spotify" width="22px" src="http://icons.iconarchive.com/icons/blackvariant/button-ui-requests-2/1024/Spotify-icon.png" />
+  <img align="left" alt="German III | Spotify" width="22px" src="https://cdn.simpleicons.org/spotify" />
 </a>
 
 
