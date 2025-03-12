@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello there visitor 👋 ![](https://visitor-badge.glitch.me/badge?page_id=germaniii.germaniii)
+## Hello there visitor 👋
 
 I'm [German Felisarta III](https://github.com/germaniii/), a Bachelor of Science in Computer Engineering Graduate from the University of San Carlos in the Philippines. 
 
